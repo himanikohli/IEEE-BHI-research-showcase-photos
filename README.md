@@ -1,4 +1,4 @@
-# Research-Showcase-Photos
+# Research Poster Presentation
 Photos and highlights from research projects, conference presentations, awards, and academic activities.
 
 ## Conferences & Presentations
