@@ -9,3 +9,10 @@ Presented a **one-page research abstract** at the conference and discussed my wo
 - NSF-EMBS-Google Sponsored Young Professional NextGen Scholar Recognition
 - Research poster presentation
 - Networking with researchers in biomedical AI, medical imaging, and health informatics
+## Certificate
+![IEEE BHI Certificate](../IEEE-BHI-Certificate.png)
+
+## Conference Highlights
+![IEEE BHI Conference Photo](../IEEE_BHI_Picture.jpg)
+
+![IEEE BHI Conference Photo 2](../IEEE_BHI_Picture2.jpg)
