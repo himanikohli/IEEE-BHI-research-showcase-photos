@@ -11,4 +11,4 @@ Presented my research poster at the **14th Annual GPSS Research Conference** at 
 - Presented my research to graduate students, faculty, and attendees
 - Discussed the methodology, results, and broader impact of the project
 - Engaged with the university research community through poster presentation and discussion
-![GPSS 14th Annual Conference 2026](../GPSS-Conference.jpeg)
+![GPSS 14th Annual Conference 2026](./GPSS-Conference.jpeg)
