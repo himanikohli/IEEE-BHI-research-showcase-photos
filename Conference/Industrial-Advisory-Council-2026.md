@@ -11,5 +11,4 @@ Presented my research poster during the **Industrial Advisory Council Visit 2026
 - Presented current research findings
 - Engaged with industry professionals
 - Discussed the practical relevance and potential applications of the research
-  
-![Industrial Advisory Council Visit 2026](../Industrial-council.jpeg)
+ ![Industrial Advisory Council Visit 2026](https://raw.githubusercontent.com/himanikohli/IEEE-BHI-research-showcase-photos/main/Industrial-council.jpeg)
