@@ -13,3 +13,4 @@ Received an **Honorable Mention Award** for my research poster presentation at t
 - Presented research to faculty, students, and attendees
 - Recognized for the quality and impact of the poster presentation
 - Received a **$250 award**
+![Honorable Mention Award 2026](../Honorable-Mention-Award.jpeg)
